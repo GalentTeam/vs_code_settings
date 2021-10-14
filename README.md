@@ -1,7 +1,9 @@
 # VS Code Settings
 
 Course link: [VS Code course](https://go.galent.am/588)
+
 More themes: [VS Code themes](https://vscodethemes.com)
+
 For weak computers use `--disable-gpu`.
 
 ## Used Extensions
