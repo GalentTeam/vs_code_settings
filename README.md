@@ -19,6 +19,9 @@ For weak computers use `--disable-gpu`.
 - One Dark Pro
 - Python
 
+- Project Manager
+- SFTP
+
 ## Settings
 
 ```
