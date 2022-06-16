@@ -18,6 +18,7 @@ For weak computers use `--disable-gpu`.
 - Autoprefixer
 - One Dark Pro
 - Python
+- Live Sass Compiler
 
 - Project Manager
 - SFTP
